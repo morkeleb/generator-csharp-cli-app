@@ -9,6 +9,8 @@ Yeoman generator for a C# command line app with NuGet package restore, log4net a
 You can install via npm:
 
 	npm install -g generator-csharp-cli-app
+	
+	kul!
 
 ## Usage
 
